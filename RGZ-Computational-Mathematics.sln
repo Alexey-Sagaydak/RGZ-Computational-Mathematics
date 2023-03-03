@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RGZ-Computational-Mathematics", "RGZ-Computational-Mathematics\RGZ-Computational-Mathematics.csproj", "{274BD94C-C3C3-432C-A198-78FD5E6072DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 4. Nonlinear equation", "Task 4. Nonlinear equation\Task 4. Nonlinear equation.csproj", "{A9B5E777-58A4-40D9-9259-B676735DECA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{274BD94C-C3C3-432C-A198-78FD5E6072DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{274BD94C-C3C3-432C-A198-78FD5E6072DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{274BD94C-C3C3-432C-A198-78FD5E6072DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{274BD94C-C3C3-432C-A198-78FD5E6072DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9B5E777-58A4-40D9-9259-B676735DECA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9B5E777-58A4-40D9-9259-B676735DECA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9B5E777-58A4-40D9-9259-B676735DECA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9B5E777-58A4-40D9-9259-B676735DECA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
